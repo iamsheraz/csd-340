@@ -2,7 +2,7 @@ body
 {
     margin: 0;
     font-family: 'Oswald', Verdana, Arial, sans-serif;
-    background: url("images/back.jfif") no-repeat fixed;
+    background: url("final/images/back.jfif") no-repeat fixed;
   background-size: cover;
   background-position: center;
 }
