@@ -5,7 +5,7 @@ body
 }
 header
 {
-    background-color: #3c275a;
+    background-color: #1f6b6e;
     color: white;
     padding: 20px;
     text-align: center;
@@ -18,8 +18,8 @@ h1
 #navbar
 {
     overflow: hidden;
-    background-color: #4F3674;
-    border-bottom: solid 15px #D6A800;
+    background-color: #0f5457;
+    border-bottom: solid 15px #030042;
 }
 #navbar a
 {
@@ -132,8 +132,8 @@ footer a:hover
 }
 img
 {
-    width: 400px;
-    height: 250px;
+    width: 600px;
+    height: 500px;
 }
 figure
 {
